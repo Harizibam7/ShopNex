@@ -53,4 +53,5 @@
     height: 250px;
     width: 300px;
     overflow: hidden;
+    border-radius: 5px;
 }
